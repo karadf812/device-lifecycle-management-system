@@ -1,4 +1,4 @@
-# Product Lifecycle System (C++)
+# Device Lifecycle Management System
 
 This project simulates lifecycle management of physical devices using object-oriented programming.
 
